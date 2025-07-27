@@ -1,4 +1,4 @@
-# SQL Projects - Data Cleaning and Exploration
+# SQL Projects: Real-World Data Cleaning & Exploration
 
 This repository contains SQL scripts for exploring, cleaning, and analyzing various datasets.
 The projects focus on data cleaning, aggregation, and exploration using SQL functions like joins, CTEs (Common Table Expressions), window functions, and data transformations.
