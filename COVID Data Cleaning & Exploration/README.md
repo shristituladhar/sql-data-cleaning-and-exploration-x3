@@ -3,7 +3,7 @@
 This project explores global COVID-19 death and vaccination trends using datasets from *Our World in Data*. SQL is used to clean, join, and analyze the data.
 
 ## Files Included
-- `covid_data.csv` - Combined dataset  
+- `covid data.csv` - Combined dataset  
 - `CovidDeaths.csv` - Death records  
 - `CovidVaccinations.csv` - Vaccination records  
 - `SQL - COVID Data Exploration.sql` - SQL script for cleaning and exploring data
