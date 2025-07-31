@@ -5,8 +5,9 @@ The projects focus on data cleaning, aggregation, and exploration using SQL func
 
 ## Projects Overview
 
-### 1. **COVID Data Cleaning and Exploration**
-   This project involves cleaning and exploring COVID-related data from [Our World in Data](https://ourworldindata.org/coronavirus). The SQL script includes data aggregation, exploration, and cleaning processes.
+### [1. COVID Data Cleaning & Exploration](./COVID%20Data%20Cleaning%20%26%20Exploration)
+   This project involves cleaning and exploring COVID-related data from [Our World in Data](https://ourworldindata.org/coronavirus).
+   The SQL script includes data aggregation, exploration, and cleaning processes.
 
    **Files**:
    - `covid_data.csv`: Raw dataset for analysis.
@@ -27,8 +28,9 @@ The projects focus on data cleaning, aggregation, and exploration using SQL func
 
 ---
 
-### 2. **IMDB Top 1000 Data Exploration**
-   This project explores and analyzes the IMDB Top 1000 movie dataset. The script includes SQL queries for sorting, filtering, and aggregating data to explore movie trends, ratings, and genres.
+### [2. IMDB Top 1000 Data Exploration](./IMDB%20Data%20Cleaning%20and%20Exploration)
+   This project explores and analyzes the IMDB Top 1000 movie dataset. The script includes SQL queries for sorting, filtering, and
+   aggregating data to explore movie trends, ratings, and genres.
 
    **Files**:
    - `imdb_top_1000.csv`: Raw dataset for analysis.
@@ -48,12 +50,13 @@ The projects focus on data cleaning, aggregation, and exploration using SQL func
 
 ---
 
-### 3. **Nashville Housing Data Cleaning**
+### [3. Nashville Housing Data Cleaning](./Nashville%20Housing%20Data%20Cleaning)
    This project cleans a dataset of Nashville housing data, focusing on transforming and preparing it for further analysis.
 
    **Files**:
    - `NashvilleHousing - Data Cleaning.xlsx`: Raw dataset of Nashville housing data.
-   - `SQL - NashvilleHousing Data Cleaning.sql`: SQL script for cleaning the Nashville housing data, including handling missing values, correcting data types, and aggregating data.
+   - `SQL - NashvilleHousing Data Cleaning.sql`: SQL script for cleaning the Nashville housing data, including handling missing values,
+     correcting data types, and aggregating data.
 
    **Skills Used**:
    - SQL (MySQL Workbench)
